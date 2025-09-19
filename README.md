@@ -1,5 +1,5 @@
 ### Hi there. I'm Hank, a developer from Taiwan. 👋 
-🤔 Working Hard !
+😄 I'm traveling !
 <!--
 **1107719008/1107719008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,8 @@
 ### Hi there. I'm Hank, a developer from Taiwan. 👋 
+<!--
 😄 I'm traveling !
-And I'm currently looking for a job.
+-->
+💻 Backend & DevOps Engineer
 <!--
 **1107719008/1107719008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
